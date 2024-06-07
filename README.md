@@ -13,3 +13,6 @@ This master’s thesis presents an experimental and numerical study of gas-solid
 - Mass Transfer Coefficients
 - Model
 - Numerical Simulation
+  
+## Code Documentation
+The code developed for this thesis is included in the repository. It comprises scripts for numerical simulations and plots that have been presented in the master thesis document.
